@@ -42,7 +42,7 @@ I've actively participated in multiple game development competitions. From there
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/jtntjtra04/Portofolio/blob/d517098c3056177362f73f0c74288115123d9e8c/mendacius_conspiracy_demo.gif"/></td>
+      <td><img src="https://github.com/jtntjtra04/jtntjtra04/blob/fe6df8bf2a389d19c809c617aa118f1e0c558aaa/mendacius_conspiracy_demo.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">A 2D horror simulation game where you manage a news company, fact-checking articles to uncover which of your employees is a Mendacius. Made for Gemastik Competition, I worked as a solo game programmer taking care of all the mechanic, UI, and save system.</td>
