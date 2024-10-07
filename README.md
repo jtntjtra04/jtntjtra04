@@ -14,7 +14,7 @@ I've actively participated in multiple game development competitions. From there
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/jtntjtra04/Portofolio/blob/e093fdb9bd93523e5d19547f7ea93bc27cf7ca39/paracelsus_demo.gif"/></td>
+      <td><img src="https://github.com/jtntjtra04/jtntjtra04/blob/00e53c6ad22bd41e29fca15bf92f659ab3bc3f4c/paracelsus_demo.gif"/></td>
       <td><img src="https://github.com/jtntjtra04/Portofolio/blob/cba62f668472fd0319606f7dd880260fe71dfdf2/publics_perpetrator_demo.gif"/></td>
     </tr>
     <tr>
