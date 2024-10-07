@@ -4,7 +4,7 @@ I’m a passionate game programmer specializing in developing 2D games using Uni
 
 I've actively participated in multiple game development competitions. From there I gained valuable experiences, making an engaging gameplay either for entertainment purpose or public benefit purpose.
 
-# Down below are some of the games I have made so far, feel free to try :D
+## Down below are some of the games I have made so far, feel free to try :D
 <table width="100%">
   <thead>
     <tr>
