@@ -6,7 +6,7 @@ I've actively participated in multiple game development competitions. From there
 
 You can check and download my games that I've developed in my [itch page](https://justintjitra.itch.io) here
 
-## Down below are some of the games I have made so far, feel free to try :D
+# Down below are some of the games I have made so far, feel free to try :D
 <table width="100%">
   <thead>
     <tr>
