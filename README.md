@@ -1,4 +1,4 @@
-## Hii, my name is Justin Ignatius Tjitra!
+# Hii, my name is Justin Ignatius Tjitra!
 ---
 I’m a passionate game programmer specializing in developing 2D games using Unity. I have a strong foundation in basic game mechanics, scripting, and design. I enjoy working with others in terms of collaborative and teamwork to contribute in any projects. </br>
 
