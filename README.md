@@ -1,9 +1,10 @@
 # Hii, my name is Justin Ignatius Tjitra!
 ---
 I’m a passionate game programmer specializing in developing 2D games using Unity and I'm currently a student at Binus University. I have a strong foundation in basic game mechanics, scripting, and design. I enjoy working with others in terms of collaborative and teamwork to contribute in any projects. </br>
-You can check and download my games that I've developed in my [itch page](https://justintjitra.itch.io) here
 
 I've actively participated in multiple game development competitions. From there I gained valuable experiences, making an engaging gameplay either for entertainment purpose or public benefit purpose.
+
+You can check and download my games that I've developed in my [itch page](https://justintjitra.itch.io) here
 
 ## Down below are some of the games I have made so far, feel free to try :D
 <table width="100%">
