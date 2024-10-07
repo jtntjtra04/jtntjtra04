@@ -15,7 +15,7 @@ I've actively participated in multiple game development competitions. From there
   <tbody>
     <tr>
       <td><img src="https://github.com/jtntjtra04/jtntjtra04/blob/00e53c6ad22bd41e29fca15bf92f659ab3bc3f4c/paracelsus_demo.gif"/></td>
-      <td><img src="https://github.com/jtntjtra04/Portofolio/blob/cba62f668472fd0319606f7dd880260fe71dfdf2/publics_perpetrator_demo.gif"/></td>
+      <td><img src="https://github.com/jtntjtra04/jtntjtra04/blob/c77a0fcda32e7b70f3a7e6ce0e5f9a1a932e918e/publics_perpetrator_demo.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">Paracelsus is a 2D platformer game with a pixelated artstyle that follows Celsus's journey to search 4 elemental spirits in the Tower of Aerulus. This is my first game and I contributed as a lead game programmer to make the movement, enemy, UI, and game mechanics such as puzzle, skills, elements, etc.</td>
