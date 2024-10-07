@@ -20,7 +20,7 @@ You can check and download my games that I've developed in my [itch page](https:
       <td><img src="https://github.com/jtntjtra04/jtntjtra04/blob/c77a0fcda32e7b70f3a7e6ce0e5f9a1a932e918e/publics_perpetrator_demo.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">Paracelsus is a 2D platformer game with a pixelated artstyle that follows Celsus's journey to search 4 elemental spirits in the Tower of Aerulus. This is my first game and I contributed as a lead game programmer to make the movement, enemy, UI, and game mechanics such as puzzle, skills, elements, etc.</td>
+      <td valign="text-top">Paracelsus is a 2D combat platformer game with a pixelated artstyle that follows Celsus's journey to search 4 elemental spirits in the Tower of Aerulus. This is my first game and I contributed as a lead game programmer to make the movement, enemy, UI, and game mechanics such as puzzle, skills, elements, etc.</td>
       <td valign="text-top""><div>A 2D top down puzzle mystery game with story of an investigator who realized a melacious motive from government and he start search a clue to find the perpetrator. I mainly worked as a game programmer to make all the game mechanics such as movement, UI, collecting items, and puzzles.</div></td>
     </tr>
     <tr>
