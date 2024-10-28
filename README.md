@@ -10,7 +10,7 @@ You can check and download my games that I've developed in my [itch page](https:
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://bgdc.itch.io/paracelsus">Paracelsus</a></th>
+      <th width="50%"><a href="https://github.com/jtntjtra04/Paracelsus">Paracelsus</a></th>
       <th width="50%"><a href="https://keen-fm.itch.io/publics-perpetrator-chapter-1">Public's Perpetrator</a></th>
     </tr>
   </thead>
