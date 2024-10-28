@@ -27,9 +27,6 @@ You can check and download my games that I've developed in my [itch page](https:
       <td><a href="https://bgdc.itch.io/paracelsus">Itch Page</td>
       <td><a href="https://keen-fm.itch.io/publics-perpetrator-chapter-1">Itch Page</td>
     </tr>
-      <td></td>
-      
-
   </tbody>
 </table>
 
