@@ -11,7 +11,7 @@ You can check and download my games that I've developed in my [itch page](https:
   <thead>
     <tr>
       <th width="50%"><a href="https://github.com/jtntjtra04/Paracelsus">Paracelsus</a></th>
-      <th width="50%"><a href="https://keen-fm.itch.io/publics-perpetrator-chapter-1">Public's Perpetrator</a></th>
+      <th width="50%"><a href="https://github.com/jtntjtra04/Public-s-Perpetrator">Public's Perpetrator</a></th>
     </tr>
   </thead>
   <tbody>
@@ -38,13 +38,14 @@ You can check and download my games that I've developed in my [itch page](https:
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://justintjitra.itch.io/mendacius-conspiracy">Mendacius Conspiracy</a></th>
-      <th width="50%"><a href="https://justintjitra.itch.io/mendacius-conspiracy">Seven Days Till Payday</a></th>
+      <th width="50%"><a href="https://github.com/jtntjtra04/Mendacius-Conspiracy">Mendacius Conspiracy</a></th>
+      <th width="50%"><a href="https://github.com/jtntjtra04/Seven-Days-Till-Payday">Seven Days Till Payday</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/jtntjtra04/jtntjtra04/blob/fe6df8bf2a389d19c809c617aa118f1e0c558aaa/mendacius_conspiracy_demo.gif"/></td>
+      <td><img src="https://github.com/jtntjtra04/jtntjtra04/blob/e86b59e7672f81b800db5bbbeb67539dde527242/exampleTrainStation.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">A 2D horror simulation game where you manage a news company, fact-checking articles to uncover which of your employees is a Mendacius. Made for Gemastik Competition, I worked as a solo game programmer taking care of all the mechanic, UI, and save system.</td>
