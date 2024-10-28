@@ -49,9 +49,11 @@ You can check and download my games that I've developed in my [itch page](https:
     </tr>
     <tr>
       <td valign="text-top">A 2D horror simulation game where you manage a news company, fact-checking articles to uncover which of your employees is a Mendacius. Made for Gemastik Competition, I worked as a solo game programmer taking care of all the mechanic, UI, and save system.</td>
+      <td valign="text-top">A 2D management simulation game where you work as public security officer in a busy train station. You have to help passengers, keep the station clean, and detain any troublemaker you encounter for seven days to pay your living cost.</td>
     </tr>
     <tr>
       <td><a href="https://justintjitra.itch.io/mendacius-conspiracy">Itch Page</td>
+        <td><a href="https://justintjitra.itch.io/mendacius-conspiracy">Itch Page</td>
     </tr>
   </tbody>
 </table>
