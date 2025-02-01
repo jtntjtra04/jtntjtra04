@@ -50,7 +50,7 @@ You can check and download my games that I've developed in my [itch page](https:
     </tr>
     <tr>
       <td><a href="https://justintjitra.itch.io/mendacius-conspiracy">Itch Page</td>
-        <td><a href="https://justintjitra.itch.io/mendacius-conspiracy">Itch Page</td>
+        <td><a href="https://brynkkk.itch.io/seven-days-till-payday">Itch Page</td>
     </tr>
   </tbody>
 </table>
