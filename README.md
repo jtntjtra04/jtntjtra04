@@ -1,6 +1,6 @@
 # Hii, my name is Justin Tjitra (翁榮健)!
 ---
-I’m a passionate game programmer specializing in developing 2D games using Unity and I'm currently a student at Binus University. I have a strong foundation in basic game mechanics, scripting, and design. I enjoy working with others in terms of collaborative and teamwork to contribute in any projects. </br>
+I’m a passionate game programmer specializing in developing 2D games using Unity. I'm an undergraduate student at Binus University and currently studying at National Taipei University of Technology to discover more knowledges. I have a strong foundation in basic game mechanics, scripting, and design. I enjoy working with others in terms of collaborative and teamwork to contribute in any projects. </br>
 
 I've actively participated in multiple game development competitions. From there I gained valuable experiences, making an engaging gameplay either for entertainment purpose or public benefit purpose.
 
