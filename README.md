@@ -1,4 +1,4 @@
-# Hii, my name is Justin Tjitra (翁榮健)!
+# Hii, I'm Justin (翁榮健)!
 ---
 I’m a software developer specializing in game development using Unity and C#. I'm an undergraduate student at Binus University and studied at National Taipei University of Technology to discover more knowledges. I have a strong foundation in basic game mechanics, scripting, debugging, and design. I also have experience about machine learning or deep learning, cloud, Python, and AI implementation. Right now, I'm also working on VR games for my final project of VR Application Design courses in NTUT. I enjoy working with others in terms of collaborative and teamwork to contribute in any projects. </br>
 
